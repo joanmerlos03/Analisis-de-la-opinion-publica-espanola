@@ -1,0 +1,13 @@
+flask
+gunicorn
+pandas
+gspread
+pydantic
+python-dotenv
+requests
+beautifulsoup4
+langchain==1.3.0
+langchain-classic==1.0.7
+langchain-core==1.4.0
+langchain-openai==1.2.1
+langchain-protocol==0.0.15
