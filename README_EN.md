@@ -1,7 +1,7 @@
 # Spanish Opinion Analysis
 
 ## Overview
-This project aims to apply Natural Language Processing (NLP) techniques to the analysis of the Spanish digital press. Based on the hypothesis that different media outlets cover the same news events from distinct ideological frameworks, this work seeks to analyze how this is reflected in the language used, the prioritized topics, and the tone adopted. Through topic modeling, polarity analysis, and classifiers, the project demonstrates the potential of NLP to study how the media constructs and frames reality. The project culminates with the development of an agent-based system that transforms the collected news corpus into an automated, personalized news recommendation service.
+This project aims to apply Natural Language Processing (NLP) techniques to the analysis of the Spanish digital press. Based on the hypothesis that different media outlets cover the same news events from distinct ideological frameworks, this work seeks to analyze how this is reflected in the language used, the prioritized topics, and the tone adopted. Through topic modeling, polarity analysis, and classifiers, the project demonstrates the potential of NLP to study how the media constructs and frames reality. The project culminates with the development of an agent-based system that transforms the collected news corpus into an automated, personalized news recommendation service. It is worth noting that this project is a strictly educational web scraping exercise. As such, the raw data is not included in this repository to respect the intellectual property rights of the original sources.
 
 ## Authors
 * Álvaro Nieva Valenzuela
